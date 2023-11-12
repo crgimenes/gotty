@@ -1,5 +1,6 @@
 gotty
 builds
 bindata
+.DS_Store
 js/dist
 js/node_modules/*

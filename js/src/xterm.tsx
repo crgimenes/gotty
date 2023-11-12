@@ -5,13 +5,13 @@ import { WebglAddon } from 'xterm-addon-webgl';
 import { ZModemAddon } from "./zmodem";
 
 const termOptions = {
-    fontSize: 13,
-    fontFamily: '3270font,Menlo For Powerline,Consolas,Liberation Mono,Menlo,Courier,monospace',
+    fontSize: 16,
+    fontFamily: 'Menlo For Powerline,Consolas,Liberation Mono,Menlo,Courier,monospace',
     macOptionClickForcesSelection: true,
     macOptionIsMeta: true,
     theme: {
-        foreground: '#d4d4d4',
-        background: '#1e1e1e',
+        foreground: '#ffffff',
+        background: '#000000',
         cursor: '#adadad',
         black: '#000000',
         red: '#d81e00',
