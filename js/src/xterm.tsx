@@ -6,7 +6,7 @@ import { ZModemAddon } from "./zmodem";
 
 const termOptions = {
     fontSize: 13,
-    fontFamily: 'Menlo For Powerline,Consolas,Liberation Mono,Menlo,Courier,monospace',
+    fontFamily: '3270font,Menlo For Powerline,Consolas,Liberation Mono,Menlo,Courier,monospace',
     macOptionClickForcesSelection: true,
     macOptionIsMeta: true,
     theme: {

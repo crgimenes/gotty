@@ -9,3 +9,9 @@
       height: 100%;
     }
   }
+
+@font-face {
+    font-family: '3270font';
+    src: url('https://crg.eti.br/3270Condensed-Regular.woff') format('woff'),
+         url('https://crg.eti.br/3270SemiCondensed-Regular.woff') format('woff');
+}
