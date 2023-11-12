@@ -1,3 +1,8 @@
+This is a highly modified version of gotty maintained for use in the Brazilian golang study group.
+
+Please consider using the version https://github.com/sorenisanerd/gotty
+
+
 # ![](https://raw.githubusercontent.com/sorenisanerd/gotty/master/resources/favicon.ico) GoTTY - Share your terminal as a web application
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-57-orange.svg?style=flat-square)](#contributors-)

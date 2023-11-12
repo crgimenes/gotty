@@ -1,3 +1,3 @@
 package main
 
-var Version = "unknown_version"
+var Version = "dev"
